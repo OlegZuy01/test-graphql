@@ -1,1 +1,2 @@
-Hi
+npm i
+npm run devStart
